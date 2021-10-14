@@ -158,9 +158,6 @@ class automessage:
 
 
 
-        #TODO  *Enter to WA web
-        #TODO Check if number is exist
-        #TODO IF exist send message
 
 
 
