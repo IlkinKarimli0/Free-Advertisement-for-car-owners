@@ -20,7 +20,7 @@ You need saved whatsapp web account in your chrome. Note: It would be better to 
 
 Before start to use: 
 
-You need to change UR_USERNAME part of line number 19. If you have user in your device write its name else write username 
+You need to change UR_USERNAME part of line number 19, 17 for both of the python files. If you have user in your device write its name else write username 
 
 ```python
 options.add_argument("user-data-dir=C:\\Users\\"UR_USERNAME"\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\");
