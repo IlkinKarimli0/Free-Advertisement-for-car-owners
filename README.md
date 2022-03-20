@@ -4,7 +4,7 @@ This is an automated message sender to the car owners. So, we can use it for dif
 
 Examples:
 
-Assuming you are a car spare parts seller. You can create a picture, text or anything that contains advertisements of your market and send it to more than 40 thousand car owners
+Assuming you are a car spare parts seller. You can create a picture, text or anything that contains advertisements of your store and send it to more than 40 thousand car owners
 
 Ask all car owners whether they could sell their car, for example (1500AZN) less. There is a possibility that some of those thousands of people will agree to this offer and you can check possible market strategies to sell those cars more expensively
 
