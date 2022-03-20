@@ -14,7 +14,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 
 options = webdriver.ChromeOptions()
-options.add_argument("user-data-dir=C:\\Users\\Ilkin\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\");
+options.add_argument("user-data-dir=C:\\Users\\"UR_USERNAME"\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\");
 #options.add_argument('--profile-directory=Default')
 options.add_argument("--start-maximized");
 
