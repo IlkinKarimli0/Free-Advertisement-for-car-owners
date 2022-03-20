@@ -1,4 +1,4 @@
-# Automated data parcer and message sender
+# Automated data parser and message sender
 
 This is an automated message sender to the car owners. So, we can use it for different purposes
 
